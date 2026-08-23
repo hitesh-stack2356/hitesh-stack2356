@@ -1,16 +1,16 @@
 # 💫 Hi 👋, I'm Hitesh kumar
-**A passionate Web Developer || DevOps Engineer || Kafka Admin from India**
+**A passionate Web Developer || Full Stack Developer || Building with PHP, JS & React from India**
 
 Email Me 👉 ✉️ **hiteshkumar36108@gmail.com ** For Collaboration/Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** Full-stack web apps at Eton Solutions using PHP (MVC) & JavaScript
+- 🌱 **I’m currently learning:** Node.js & React.js in depth
+- 👯 **I’m looking to collaborate on:** Web apps, REST API integrations, CMS/booking systems
+- 🤔 **I’m looking for help with:** Advanced React.js & backend performance optimization
+- 💬 **Ask me about:** PHP, MySQL, REST APIs, MVC architecture, Full-stack dev
+- 📫 **How to reach me:** hiteshkumar36108@gmail.com | +91 9485735838
+- 😄 **Pronouns:** Hitesh
+- ⚡ **Fun fact:** I love turning ideas into full-stack web apps 💻
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/HiteshKumarNasibpur) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@_HITESH_SHINU) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mr-hitesh-kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshkumar36108@gmail.com) 
